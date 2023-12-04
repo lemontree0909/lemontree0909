@@ -1,4 +1,4 @@
-Hi 👋, I'm Diana Palaz
+Hi 👋, I'm Diana
 
 Dedicated Front-end developer with experience in designing and developing user-oriented websites.
 
