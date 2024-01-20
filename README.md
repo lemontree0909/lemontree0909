@@ -3,8 +3,8 @@
 <h3 align="center">Dedicated Front-end developer with experience in designing and developing user-oriented websites.</h3>
 <p align="left"> <img src="" alt="" /> </p>
   
-- 🔭 I’m currently working on Shop-app in React
-- 🌱 I’m currently learning Redux and Node.js
+- 🔭 I’m currently working on Shop-app in React and Redux
+- 🌱 I’m currently learning Node.js
 
 <h2  align="center">💻 Tech Stack</h2>
 
